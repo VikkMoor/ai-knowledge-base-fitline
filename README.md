@@ -25,9 +25,12 @@ The assistant can answer customer questions about:
 
 ## Project structure
 
-knowledge_base.json
-
-assistant_instructions.md
+```text
+ai-knowledge-base-fitline/
+│
+├── knowledge_base.json
+└── assistant_instructions.md
+```
 
 ## Features
 
