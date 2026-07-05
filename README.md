@@ -1,6 +1,46 @@
-# ai-knowledge-base-fitline
-## Development of a knowledge base for the FIT-LINE fitness club's AI consultant.
+# AI Knowledge Base for FIT-LINE
 
-As part of the project, a scalable JSON knowledge base was designed—featuring metadata, categories, intents, and keywords—for use with the OpenAI Assistants API.
+Knowledge Base for an AI assistant of a fitness club.
 
-В рамках проекта была спроектирована масштабируемая JSON-база знаний с метаданными, категориями, интентами и ключевыми словами для использования с OpenAI Assistants API.
+## Project overview
+
+This project contains a structured JSON knowledge base created for an OpenAI Assistant.
+
+The assistant can answer customer questions about:
+
+- gym membership
+- working hours
+- contacts
+- personal training
+- group classes
+- additional services
+- first visit
+
+## Technologies
+
+- JSON
+- OpenAI Assistants
+- Prompt Engineering
+- Knowledge Base Design
+
+## Project structure
+
+knowledge_base.json
+
+assistant_instructions.md
+
+## Features
+
+- structured metadata
+- categories
+- intents
+- keywords
+- scalable architecture
+- ready for OpenAI Assistant
+
+## Future improvements
+
+- multilingual support
+- FAQ expansion
+- RAG integration
+- vector database support
